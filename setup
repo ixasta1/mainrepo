@@ -1,0 +1,34 @@
+#________________________________________#
+
+        ASTA_YT MUSIC BOT
+
+THIS REPOSITORY WAS CREATED BY @ZXASTA
+ALL RIGHTS RESERVED BY THE OWNER
+SUPPORTED BY: @IXASTA1
+
+#________________________________________#
+
+#!/bin/bash
+
+set -e
+
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " Installing ASTA_YT Music "
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+python3 -m pip install --upgrade pip
+pip3 install -U -r requirements.txt
+
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " Installation Completed "
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+#________________________________________#
+
+        ASTA_YT MUSIC BOT
+
+THIS REPOSITORY WAS CREATED BY @ZXASTA
+ALL RIGHTS RESERVED BY THE OWNER
+SUPPORTED BY: @IXASTA1
+
+#________________________________________#
